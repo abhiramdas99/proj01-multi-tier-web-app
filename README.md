@@ -25,3 +25,5 @@ Complete project to create a multi tier web application in  laptop or on-premise
    2) vagrant plugin install vagrant-vbguest
    3) vagrant up
  * check all the vm's hostname should be entered automatically in /etc/host file in your laptop or working pc 
+ * Kindly note that, may be datbase export location will be changed for your case 
+ *
